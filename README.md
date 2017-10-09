@@ -10,3 +10,7 @@ gem install hiera-eyaml
 
 ruamel.yaml:
 pip install ruamel.yaml
+
+## Use
+
+./yaml2eyaml /path/to/yaml/files/ /path/to/final/destination/
