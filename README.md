@@ -9,11 +9,11 @@ This version does not retain comments made in original YAML files. Sorry :)
 ## Requirements
 
 hiera-eyaml:
-gem install hiera-eyaml
+```gem install hiera-eyaml```
 
 ruamel.yaml:
-pip install ruamel.yaml
+```pip install ruamel.yaml```
 
 ## Use
 
-./yaml2eyaml /path/to/yaml/files/ /path/to/final/destination/
+```./yaml2eyaml /path/to/yaml/files/ /path/to/final/destination/```
