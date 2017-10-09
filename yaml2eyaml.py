@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# yaml2eyaml
+# Author: Charles Birk
+# Year: 2017
 
 import ruamel.yaml as yaml
 from ruamel.yaml.comments import CommentedMap
